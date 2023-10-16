@@ -1,0 +1,9 @@
+C:\Users\comp0715\Desktop\Boldov-4-2IS-lb\Boldov-4-2IS-lb\bin\Debug\Boldov-4-2IS-lb.exe.config
+C:\Users\comp0715\Desktop\Boldov-4-2IS-lb\Boldov-4-2IS-lb\bin\Debug\Boldov-4-2IS-lb.exe
+C:\Users\comp0715\Desktop\Boldov-4-2IS-lb\Boldov-4-2IS-lb\bin\Debug\Boldov-4-2IS-lb.pdb
+C:\Users\comp0715\Desktop\Boldov-4-2IS-lb\Boldov-4-2IS-lb\obj\Debug\Boldov-4-2IS-lb.csproj.AssemblyReference.cache
+C:\Users\comp0715\Desktop\Boldov-4-2IS-lb\Boldov-4-2IS-lb\obj\Debug\Boldov-4-2IS-lb.csproj.SuggestedBindingRedirects.cache
+C:\Users\comp0715\Desktop\Boldov-4-2IS-lb\Boldov-4-2IS-lb\obj\Debug\Boldov-4-2IS-lb.csproj.CoreCompileInputs.cache
+C:\Users\comp0715\Desktop\Boldov-4-2IS-lb\Boldov-4-2IS-lb\obj\Debug\Boldov-4-2IS-lb.exe
+C:\Users\comp0715\Desktop\Boldov-4-2IS-lb\Boldov-4-2IS-lb\obj\Debug\Boldov-4-2IS-lb.pdb
+C:\Users\comp0715\Desktop\Boldov-4-2IS-lb\Boldov-4-2IS-lb\obj\Debug\Boldov-4-2IS-lb.csproj.CopyComplete
